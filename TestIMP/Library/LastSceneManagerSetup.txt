@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/TransformTest.unity
+  isLoaded: 1
+  isActive: 1
